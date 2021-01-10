@@ -1,5 +1,7 @@
 # Hey there 👋I'm Chuck
 
+I am a simple hobby programmer from the US who works on small games in my spare time. I am an IT Professional by trade. The best place to reach would be on discord BearDooks#4451
+
 ## &#x270d; My Blog/Website
 
 Currently I run my blog off of Github Pages and use Jekyll. You can find it at [https://www.chucklindblom.com](https://www.chucklindblom.com)
