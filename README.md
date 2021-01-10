@@ -6,7 +6,9 @@ Currently I run my blog off of Github Pages and use Jekyll. You can find it at [
 
 ## 🔧 Tech and Tools I Use
 
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Engine-Godot-informational?style=flat&logo=godot-engine&logoColor=white&color=blue)
 
 ## 🔭 I’m currently working on ...
 * A really cool Firebase plugin for Godot [Godot Firebase](https://github.com/WolfgangSenff/GodotFirebase/)
