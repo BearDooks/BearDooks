@@ -1,6 +1,4 @@
-### Hey there 👋
-### I'm Chuck
-<p align='center'>
+# Hey there 👋I'm Chuck
 
 - 🔭 I’m currently working on a really cool Firebase plugin for Godot [Godot Firebase](https://github.com/WolfgangSenff/GodotFirebase/)
 
