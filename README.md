@@ -6,9 +6,16 @@ Currently I run my blog off of Github Pages and use Jekyll. You can find it at [
 
 ## 🔧 Tech and Tools I Use
 
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+
 ## 🔭 I’m currently working on ...
 * A really cool Firebase plugin for Godot [Godot Firebase](https://github.com/WolfgangSenff/GodotFirebase/)
 * My personal website [https://www.chucklindblom.com](https://www.chucklindblom.com)
+
+## 🌱 I'm trying to learn
+
+* Firebase
+* Docker
 
 ## &#x1f4c8; My GitHub Stats
 
