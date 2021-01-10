@@ -1,6 +1,16 @@
 # Hey there 👋I'm Chuck
 
-- 🔭 I’m currently working on a really cool Firebase plugin for Godot [Godot Firebase](https://github.com/WolfgangSenff/GodotFirebase/)
+## &#x270d; My Blog/Website
+
+Currently I run my blog off of Github Pages and use Jekyll. You can find it at [https://www.chucklindblom.com](https://www.chucklindblom.com)
+
+## 🔧 Tech and Tools I Use
+
+## 🔭 I’m currently working on ...
+* A really cool Firebase plugin for Godot [Godot Firebase](https://github.com/WolfgangSenff/GodotFirebase/)
+* My personal website [https://www.chucklindblom.com](https://www.chucklindblom.com)
+
+## &#x1f4c8; My GitHub Stats
 
 [![BearDooks's github stats](https://github-readme-stats.vercel.app/api?username=BearDooks&hide=stars&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
