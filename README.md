@@ -33,7 +33,7 @@ I'm currently integrating advanced AI agents into my workflow:
 ---
 
 ## 🔭 Current Projects
-- 🛡️ Building a really cool **Firebase plugin for Godot**: [Godot Firebase](https://github.com/WolfgangSenff/GodotFirebase/)
+- 🛡️ Building a really cool **Firebase plugin for Godot**: [Godot Firebase](https://github.com/GodotNuts/GodotFirebase)
 - 🌐 Working on my new personal site: [chucklindblom.com](https://www.chucklindblom.com)
 
 ## 📫 How to reach me
@@ -43,7 +43,6 @@ The best place to reach me is on **Discord** at **BearDooks#4451**.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BearDooks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BearDooks&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="180" alt="languages graph" />
 </div>
 
 ---
